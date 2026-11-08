@@ -1,0 +1,6 @@
+{
+  "name": "CFOP CubeMaster 3D",
+  "description": "Interactive 3D Rubik's Cube algorithm visualizer, step-by-step CFOP trainer (F2L, OLL, PLL), move notation player, and speedcubing timer with solve analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
